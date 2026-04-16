@@ -131,8 +131,8 @@ def menuHelper(askAnswer):
         print("sanırım Yanlış bir numara tuşladınız lütfen tekrar deneyin")
         menu(mod=1)
 # __________________________________________________________________ ÖZEL FONKSİYONLAR __________________________________________________________________
-def LernFromN():   #Notlardan öğren
-    pass            #Here it will have a AI wich will be at my local server network gonna learn everything from you write
+def LearnFromN():   #Notlardan öğren
+                pass#Here it will have a AI wich will be at my local server network gonna learn everything from you write
 # __________________________________________________________________ ÇALIŞMA BÖLGESI __________________________________________________________________
 while True :
     AnahtarOlustur()   #Anahtar varmı diye bakıyor yoksa oluşturuyor
